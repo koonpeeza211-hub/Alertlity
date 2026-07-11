@@ -26,7 +26,7 @@ irm https://raw.githubusercontent.com/koonpeeza211-hub/Alertlity/main/install.ps
 ## ติดต่อ / สั่งซื้อ
 
 - ช่อง TikTok: JustSense
-- Discord: (coming soon)
+- Discord: https://discord.gg/FMKHcMetu6
 
 ---
 © 2026 Alertlity By.JustSense — All rights reserved.
